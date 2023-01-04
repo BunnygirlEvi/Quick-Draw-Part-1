@@ -1,0 +1,21 @@
+body {
+  background-color: #c3f9b7;
+}
+
+#score {
+  font-size: 30px;
+  margin-left: 30px;
+}
+#timer {
+  font-size: 30px;
+  float: right;
+  margin-right: 30px;
+}
+
+#to-be-drawn-sketch {
+  text-decoration-color: aliceblue;
+}
+
+#front-text {
+  font-size: 50px;
+}
